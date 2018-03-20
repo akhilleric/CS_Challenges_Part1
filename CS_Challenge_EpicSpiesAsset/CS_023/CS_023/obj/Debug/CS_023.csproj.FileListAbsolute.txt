@@ -1,0 +1,9 @@
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\bin\CS_023.dll.config
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\bin\CS_023.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\bin\CS_023.pdb
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\obj\Debug\CS_023.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\obj\Debug\CS_023.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\obj\Debug\CS_023.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_023\CS_023\CS_023\obj\Debug\CS_023.pdb

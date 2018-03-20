@@ -1,0 +1,9 @@
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\bin\CS_Challenge_!.dll.config
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\bin\CS_Challenge_!.dll
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\bin\CS_Challenge_!.pdb
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\obj\Debug\CS_Challenge_!.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\obj\Debug\CS_Challenge_!.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\obj\Debug\CS_Challenge_!.dll
+C:\Users\Eric\source\repos\CS_Challenges_Part1\CS_Challenge_1\CS_Challenge_!\CS_Challenge_!\obj\Debug\CS_Challenge_!.pdb

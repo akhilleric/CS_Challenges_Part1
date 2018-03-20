@@ -1,0 +1,13 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
+C:\Users\Eric\source\repos\CS_Challenges_Part1\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb

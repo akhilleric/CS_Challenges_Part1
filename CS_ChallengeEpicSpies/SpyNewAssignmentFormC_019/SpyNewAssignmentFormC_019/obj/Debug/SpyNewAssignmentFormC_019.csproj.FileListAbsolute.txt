@@ -1,0 +1,9 @@
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\bin\SpyNewAssignmentFormC_019.dll.config
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\bin\SpyNewAssignmentFormC_019.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\bin\SpyNewAssignmentFormC_019.pdb
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\obj\Debug\SpyNewAssignmentFormC_019.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\obj\Debug\SpyNewAssignmentFormC_019.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\obj\Debug\SpyNewAssignmentFormC_019.dll
+C:\Users\Eric\source\repos\C_Sharp_Challenges_Pt_1\CS_019\SpyNewAssignmentFormC_019\SpyNewAssignmentFormC_019\obj\Debug\SpyNewAssignmentFormC_019.pdb
